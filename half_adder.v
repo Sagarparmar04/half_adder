@@ -2,7 +2,7 @@
 module half_adder(a,b,sum,carry);
 
 //port direction
-input a,b; //input
+input a,b; //output
 output sum,carry;//output
 //reg sum,carry;//output
   //updated logic 
